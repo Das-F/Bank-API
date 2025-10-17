@@ -1,0 +1,46 @@
+.top-bar {
+  background-color: #7e99a3;
+  width: 100%;
+  height: 20px;
+  margin: 0;
+  padding: 0;
+}
+
+.main {
+  background-color: #cae1e6;
+}
+
+.main-nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 5px 20px;
+}
+
+.main-nav a {
+  font-weight: bold;
+  color: #2c3e50;
+}
+
+.header h1 {
+  color: black;
+  font-size: 16px;
+}
+
+.input-field {
+  width: 120px;
+  padding: 10px;
+  margin: 10px 0;
+  font-size: 16px;
+}
+
+.change-button {
+  background-color: #ffffff;
+  border: 1px solid #3b15d2ff;
+  color: #3b15d2ff;
+  font-weight: bold;
+  padding: 10px;
+  margin-right: 10px;
+  cursor: pointer;
+  width: 80px;
+}
